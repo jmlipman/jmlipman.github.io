@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: " Current Project: Rodent Lesion Segmentation with Deep Learning"
+title: "Current Project: Rodent Lesion Segmentation with Deep Learning"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
