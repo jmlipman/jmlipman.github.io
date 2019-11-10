@@ -41,7 +41,7 @@ border:0px;
 
 <table class="publication_table">
 <tr><td with="20%">
-<img src="images/ratlesnet1.png" width="200px" height="200px">
+<img src="ratlesnet1.png" width="200px" height="200px">
 </td><td width="80%">
 <div>
 <p class="p_p publication_title">Rodent Brain MRI Lesion Segmentation with Fully Convolutional Networks</p>
