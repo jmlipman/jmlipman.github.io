@@ -19,7 +19,6 @@ Education
 
 Work experience
 ======
-* 2018 (4mon): Video author (Tensorflow Lite course) at Packt Publishing
 * 2017-2018 (1y): Researcher at Sojo University, Japan.
 * 2015-2016 (4mon): Research student at Copenhagen Business School, Denmark.
 
