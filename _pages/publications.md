@@ -55,7 +55,7 @@ border:0px;
 
 <table class="publication_table">
 <tr><td with="20%">
-<img src="images/abcd19.png" width="200px" height="200px">
+<img src="abcd19.png" width="200px" height="200px">
 </td><td width="80%">
 <div>
 <p class="p_p publication_title">Predicting intelligence based on cortical WM/GM contrast, cortical thickness and volumetry</p>
