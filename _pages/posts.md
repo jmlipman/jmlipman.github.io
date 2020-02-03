@@ -7,5 +7,5 @@ author_profile: false
 
 {% include base_path %}
 {% for post in site.pages %}
-  asd
+  {% include archive-single.html %}
 {% endfor %}
