@@ -14,5 +14,5 @@ Hi, my name is Miguel and I'm a PhD student at UEF (<a href="https://www.jussito
 
 ## News
 
-Attending MICCAI 2019 to present 2 papers (MLMI workshop and ABCD challenge)
+* August 2019 - Attending MICCAI 2019 to present 2 papers (MLMI workshop and ABCD challenge)
 
