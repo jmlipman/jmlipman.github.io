@@ -21,7 +21,7 @@ author_profile: true
             targeted automatic rodent lesion segmentation. The existing tools for performing automatic lesion segmentation in rodents are constrained by strict assumptions about 
             the data. Deep learning has been successfully used for medical image segmentation. However, there has not been any deep learning approach specifically designed for 
             tackling rodent brain lesion segmentation. In this work, we propose a novel Fully Convolutional Network (FCN), RatLesNet, for the aforementioned task.</p>
-            <p class="p_p publication_extra">[<a class="extra" href="https://arxiv.org/abs/1908.08746">ArXiv</a>], [<a class="extra" href="img/publications/poster_ratlesnet_19.pdf">Poster</a>]</p>
+            <p class="p_p publication_extra">[<a class="extra" href="https://arxiv.org/abs/1908.08746">ArXiv</a>], [<a class="extra" href="{{ base_path }}/publications/poster_ratlesnet_19.pdf">Poster</a>]</p>
         </div>
 </div>
 
@@ -39,7 +39,7 @@ author_profile: true
         for the ABCD-challenge. In addition to the volumes of brain structures, the FNN uses cortical WM/GM contrast and cortical thickness at 78 cortical regions. These last 
         two measurements were derived from the T1-weighted MR images using cortical surfaces produced by the CIVET pipeline. The age and gender of the subjects and the scanner 
         manufacturer are also used as features for the learning algorithm. This yielded 283 features provided to the FNN with two hidden layers of 20 and 15 nodes.</p>
-        <p class="p_p publication_extra">[<a class="extra" href="https://arxiv.org/abs/1909.05660">ArXiv</a>], [<a class="extra" href="img/publications/poster_abcd_19.pdf">Poster</a>]</p>
+        <p class="p_p publication_extra">[<a class="extra" href="https://arxiv.org/abs/1909.05660">ArXiv</a>], [<a class="extra" href="{{ base_path }}/publications/poster_abcd_19.pdf">Poster</a>]</p>
     </div>
 </div>
 
