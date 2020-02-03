@@ -7,37 +7,6 @@ author_profile: true
 
 
 {% include base_path %}
-<style>
-p.p_p {
-padding: 0px; margin: 0px;
-font-size:20px;
-}
-p.publication_title {
-font-weight:bold;
-}
-span.author {
-font-size:18px;
-color:#6289e5;
-}
-p.publication_abstract {
-font-size:16px;
-font-family:Helvetica;
-text-align: justify;
-}
-p.publication_journal {
-font-size:18px;
-}
-a.extra {
-font-size:18px;
-color:#bf3138;
-}
-table.publication_table tr td {
-border:0px;
-}
-table.publication_table {
-border:0px;
-}
-</style>
 
 <div class="row">
     <div class="col-md-12" style="margin-bottom:10px;">
@@ -45,7 +14,7 @@ border:0px;
         <p class="p_p publication_authors"><span class="author"><b>J.M. Valverde</b></span>, <span class="author">A. Shatillo</span>, <span class="author">R. de Feo</span>, <span class="author">A. Sierra</span>, <span class="author">O. Gröhn</span>, <span class="author">J. Tohka</span></p>
         <p class="p_p publication_journal">in Machine Learning in Medical Imaging, MICCAI 2019.</p>
     </div>
-    <div class="col-md-4 vcenter"><img src="img_ratlesnet_19.png" width="200px" height="200px" class="img-paper"></div>
+    <div class="col-md-4 vcenter"><img src="img_ratlesnet_19.png" class="img-paper"></div>
     <div class="col-md-8">
             <p class="p_p publication_abstract">Manual segmentation of rodent brain lesions from magnetic resonance images (MRIs) is an arduous, time-consuming and subjective task 
             that is highly important in pre-clinical research. Several automatic methods have been developed for different human brain MRI segmentation, but little research has 
@@ -64,7 +33,7 @@ border:0px;
         <p class="p_p publication_authors"><span class="author"><b>J.M. Valverde</b></span>*, <span class="author">V. Imani</span>*, <span class="author">J.D. Lewis</span>, <span class="author">J. Tohka</span></p>
         <p class="p_p publication_journal">in Adolescent Brain Cognitive Development Neurocognitive Prediction, MICCAI 2019.</p>
 </div>
-<div class="col-md-4 vcenter"><img src="img_abcd_19.png" width="200px" height="200px" class="img-paper"></div>
+<div class="col-md-4 vcenter"><img src="img_abcd_19.png" class="img-paper"></div>
     <div class="col-md-8">
         <p class="p_p publication_abstract">We propose a four-layer fully-connected neural network (FNN) for predicting fluid intelligence scores from T1-weighted MR images 
         for the ABCD-challenge. In addition to the volumes of brain structures, the FNN uses cortical WM/GM contrast and cortical thickness at 78 cortical regions. These last 
