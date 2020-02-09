@@ -34,3 +34,6 @@
 .data-author {
     overflow: auto;
 }
+table {
+    border: 0;
+}
