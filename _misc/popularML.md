@@ -1,7 +1,8 @@
 ---
 title: 'Popular ML resources on Twitter (bot)'
-date: 2012-08-14
-permalink: /misc/popularML/
+collection: misc
+date: 2020-02-09
+permalink: /misc/popularML
 ---
 
 Test
