@@ -2,8 +2,6 @@ var current_source = "arxiv";
 var current_latest = "week";
 function loadRows(source, latest) {
     var row_content;
-    alert(source);
-    alert(latest);
     $("div.rows-here").html("");
     $.post( "https://delanover.com/projects/popular_ML/json_calls/retrieve.php", { source: source, latest: latest }, function( data ) {
       if ((data != null) && (data.length > 0)) {
@@ -19,7 +17,6 @@ function loadRows(source, latest) {
           $("div.rows-here").html("No data");
       }
     }, "json");
-    alert("finish");
 }
 
 $(this).ready(function() {
