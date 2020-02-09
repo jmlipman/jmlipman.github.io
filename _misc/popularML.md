@@ -22,7 +22,7 @@ permalink: /misc/popularML
         This page works in the following way: a bot (<a href="https://twitter.com/name" target="_blank">name</a>) constantly reads its Timeline trying to find tweets with URLs.
         Then, it categorizes these URLs and it assigns them importance based on their favs and RTs.
         <b>The goal of this project</b> is to help researchers (especially those who do not have Twitter account) to see what other people find interesting and share on Twitter.
-        There is a TODO list at the end of this page. If you have any comment or suggestion, tweet me at <a href="https://twitter.com/jmlipman" target="_blank">@jmlipman</a>.
+        If you have any comment or suggestion, tweet me at <a href="https://twitter.com/jmlipman" target="_blank">@jmlipman</a>.
         Also, follow the bot for updates!
         </p>
     </div>
