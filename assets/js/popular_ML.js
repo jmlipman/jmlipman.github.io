@@ -3,7 +3,7 @@ var current_latest = "week";
 function loadRows(source, latest) {
     var row_content;
     $("div.rows-here").html("");
-    $.post( "json_calls/retrieve.php", { source: source, latest: latest }, function( data ) {
+    $.post( "http://delanover.com/projects/popular_ML/json_calls/retrieve.php", { source: source, latest: latest }, function( data ) {
       if ((data != null) && (data.length > 0)) {
           for (var i=0; i<data.length; i++) {
               row_content = '<div class="row">';
