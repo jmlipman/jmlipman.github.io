@@ -16,14 +16,13 @@ permalink: /misc/popularML
     <h1 class="cover-heading"><!--Popular Machine Learning material on Twitter.--></h1>
     <div class="col-sm">
     <p class="lead description">
-        <b>This page displays the content of "hot" tweets related to machine learning and, especially, deep learning.</b>
-        For now this page is just an experiment, and there are several things that may be changed such as the order in which the tweets are displayed and
-        the categories in which tweets are divided (currently: ArXiv, Twitter, Medium, Github).
-        This page works in the following way: a bot (<a href="https://twitter.com/name" target="_blank">name</a>) constantly reads its Timeline trying to find tweets with URLs.
-        Then, it categorizes these URLs and it assigns them importance based on their favs and RTs.
+        <b>This page displays the content of "hot" tweets related to machine learning (especially deep learning).</b>
+        Tweets from <a href="https://twitter.com/popular_ML" target="_blank">popular_ML</a>'s Timeline are analyzed and those that have URLs are retrieved and classified into the following categories: Arxiv, Blog, Twitter, GitHub, Paper, News and Other.
+        Displayed tweets are sorted by importance (combination of favs and RTs), showing more important tweets on top.
         <b>The goal of this project</b> is to help researchers (especially those who do not have Twitter account) to see what other people find interesting and share on Twitter.
         If you have any comment or suggestion, tweet me at <a href="https://twitter.com/jmlipman" target="_blank">@jmlipman</a>.
-        Also, follow the bot for updates!
+        In the near future, the bot will also tweet the most popular content retrieved daily, among other things. Follow the bot for updates!
+        A complete description of how this works can be found in the following <a href="" target="_blank">Twitter thread</a>.
         </p>
     </div>
     </main>
