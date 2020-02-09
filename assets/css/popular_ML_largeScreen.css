@@ -1,0 +1,7 @@
+.wrapper {
+    max-width: calc(1150px - (40px * 2));/*Remove this in phones*/
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 40px; /*Remove this in phones*/
+    padding-left: 40px; /*Remove this in phones*/
+}

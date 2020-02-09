@@ -1,0 +1,18 @@
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.lead {
+    /*font-size: something; Adjust this in phones */
+    font-size:1em;
+}
+
+.cover-heading {
+    font-size:2em;
+}
+
+.themed-grid-col {
+  padding-left:5px;
+  padding-right:5px;
+}
