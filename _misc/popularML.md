@@ -16,13 +16,13 @@ permalink: /misc/popularML
     <h1 class="cover-heading"><!--Popular Machine Learning material on Twitter.--></h1>
     <div class="col-sm">
     <p class="lead description">
-        <b>This page displays the content of "hot" tweets related to machine learning (especially deep learning).</b>
-        Tweets from <a href="https://twitter.com/popular_ML" target="_blank">popular_ML</a>'s Timeline are analyzed and those that have URLs are retrieved and classified into the following categories: Arxiv, Blog, Twitter, GitHub, Paper, News and Other.
-        Displayed tweets are sorted by importance (combination of favs and RTs), showing more important tweets on top.
+        <b>This page displays the content of popular tweets related to machine learning (especially deep learning).</b>
+        Tweets with URLs from <a href="https://twitter.com/popular_ML" target="_blank">popular_ML</a>'s Timeline are classified into the following categories: Arxiv, Blog, Twitter, GitHub, Paper, News and Other.
+        Afterwards, tweets, sorted by importance (combination of favs and RTs), are displayed in this page, showing the most popular tweets on top.
         <b>The goal of this project</b> is to help researchers (especially those who do not have Twitter account) to see what other people find interesting and share on Twitter.
         If you have any comment or suggestion, tweet me at <a href="https://twitter.com/jmlipman" target="_blank">@jmlipman</a>.
-        In the near future, the bot will also tweet the most popular content retrieved daily, among other things. Follow the bot for updates!
-        A complete description of how this works can be found in the following <a href="" target="_blank">Twitter thread</a>.
+        Plans for the future include the bot tweeting daily what was the most popular content retrieved among other things. Follow the bot for updates!
+        A complete description of how this works can be found in the following <a href="https://twitter.com/popular_ML/status/1226575783558340609" target="_blank">Twitter thread</a>.
         </p>
     </div>
     </main>
