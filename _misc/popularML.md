@@ -1,5 +1,5 @@
 ---
-title: "Popular Machine Learning material on Twitter"
+title: "Popular Machine Learning resources on Twitter"
 collection: misc
 permalink: /misc/popularML
 ---
