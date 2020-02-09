@@ -5,7 +5,7 @@ function loadRows(source, latest) {
     alert(source);
     alert(latest);
     $("div.rows-here").html("");
-    $.post( "http://delanover.com/projects/popular_ML/json_calls/retrieve.php", { source: source, latest: latest }, function( data ) {
+    $.post( "https://delanover.com/projects/popular_ML/json_calls/retrieve.php", { source: source, latest: latest }, function( data ) {
       if ((data != null) && (data.length > 0)) {
           for (var i=0; i<data.length; i++) {
               row_content = '<div class="row">';
