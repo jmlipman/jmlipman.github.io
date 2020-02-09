@@ -1,17 +1,19 @@
 ---
+title: "Popular Machine Learning material on Twitter"
 collection: misc
 permalink: /misc/popularML
 ---
 <link rel="stylesheet" media="screen and (min-device-width: 501px)" href="{{ base_path }}/assets/css/popular_ML_largeScreen.css" />
 <link rel="stylesheet" media="screen and (max-width: 500px)" href="{{ base_path }}/assets/css/popular_ML_smallScreen.css" />
 <link href="{{ base_path }}/assets/css/popular_ML.css" rel="stylesheet">
-<script language="javascript" src="{{ base_path }}/assets/js/popular_ML.js"></script>
 <script language="javascript" src="{{ base_path }}/assets/js/jquery.js"></script>
+<script language="javascript" src="{{ base_path }}/assets/js/popular_ML.js"></script>
+
 
 
 <div class="cover-container d-flex p-4 mx-auto flex-column">
     <main role="main" class="inner cover text-center">
-    <h1 class="cover-heading">Popular Machine Learning material on Twitter.</h1>
+    <h1 class="cover-heading"><!--Popular Machine Learning material on Twitter.--></h1>
     <div class="col-sm">
     <p class="lead description">
         <b>This page displays the content of "hot" tweets related to machine learning and, especially, deep learning.</b>
