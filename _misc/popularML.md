@@ -13,7 +13,7 @@ permalink: /misc/popularML
 
 <div class="cover-container d-flex p-4 mx-auto flex-column">
     <main role="main" class="inner cover text-center">
-    <h1 class="cover-heading"><!--Popular Machine Learning material on Twitter.--></h1>
+    <h4 class="cover-heading" style="color:red">Under maintenance.</h4>
     <div class="col-sm">
     <p class="lead description">
         <b>This page displays the content of popular tweets related to machine learning (especially deep learning).</b>
@@ -62,7 +62,7 @@ permalink: /misc/popularML
     <ul>
         <li>Filter irrelevant stuff.</li>
     </ul>
-    <p>Last updated: 09-Feb-2020</p>
+    <p>Last updated: 14-Feb-2020</p>
     </div>
     </main>
 </div>
