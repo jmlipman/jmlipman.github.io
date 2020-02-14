@@ -11,7 +11,7 @@ permalink: /misc/popularML
 
 
 
-<div class="cover-container d-flex p-4 mx-auto flex-column">
+<div class="cover-container d-flex mx-auto flex-column">
     <main role="main" class="inner cover text-center">
     <h4 class="cover-heading" style="color:red">Under maintenance.</h4>
     <div class="col-sm">
