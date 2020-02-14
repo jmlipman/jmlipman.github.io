@@ -13,7 +13,7 @@ permalink: /misc/popularML
 
 <div class="cover-container d-flex mx-auto flex-column">
     <main role="main" class="inner cover text-center">
-    <h4 class="cover-heading" style="color:red">Under maintenance.</h4>
+    <!--<h4 class="cover-heading" style="color:red">Under maintenance.</h4>-->
     <div class="col-sm">
     <p class="lead description">
         <b>This page displays the content of popular tweets related to machine learning (especially deep learning).</b>
