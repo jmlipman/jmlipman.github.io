@@ -1,5 +1,19 @@
 var current_source = "arxiv";
 var current_latest = "week";
+var map_icons = {
+    "Arxiv": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/arxiv.png",
+    "Twitter": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter.png",
+    "GitHub": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/github.png"
+}
+
+function getCategoryIcon(name) {
+    var res = name;
+    if (name in map_icons) {
+        res = '<img src="'+map_icons[name]+'" width="15" /> ' + res
+    }
+    return res;
+}
+
 function loadRows(source, latest) {
     var row_content;
     $("div.rows-here").html("");
@@ -22,7 +36,7 @@ function loadRows(source, latest) {
               row_content += '<a class="row-author" href="https://twitter.com/'+data[i].tweet_screenname+'/status/'+data[i].tweet_id+'" target="_blank">@'+data[i].tweet_screenname+'</a>';
               row_content += '</td>';
 
-              row_content += '<td width="50%" align="right">'+data[i].url_type+'</td></tr>';
+              row_content += '<td width="50%" align="right">'+getCategoryIcon(data[i].url_type)+'</td></tr>';
               row_content += '</table>';
 
               row_content += '</td></tr>';
@@ -36,7 +50,7 @@ function loadRows(source, latest) {
               row_content += '</td>';
 
               row_content += '<td width="25%" align="center"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-like.png" width="15"/> <span class="row-numrtwslikes">999</a></td>';
-              row_content += '<td width="50%"></td></tr></table>';
+              row_content += '<td width="50%"><span class="row-date">Date</span></td></tr></table>';
 
               row_content += '</td></tr>';
               row_content += '</table>';
