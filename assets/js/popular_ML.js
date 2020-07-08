@@ -31,11 +31,11 @@ function loadRows(source, latest) {
               row_content += '</td></tr>';
               row_content += '<tr><td>';
               row_content += '<table class="popularml" width="100%" height="100%" cellspacing="0" cellpadding="0">';
-              row_content += '<tr><td width="50%" align="left">';
-              row_content += '<a class="row-author" href="https://twitter.com/'+data[i].tweet_screenname+'/status/'+data[i].tweet_id+'" target="_blank">@'+data[i].tweet_screenname+'</a>';
+              row_content += '<tr><td width="50%" align="center">';
+              row_content += '<img src="https://jmlipman.github.io/assests/images/twitter-retweet.png" /> 999';
               row_content += '</td>';
 
-              row_content += '<td width="50%" align="right">'+data[i].url_type+'</td></tr>';
+              row_content += '<td width="50%" align="center"><img src="https://jmlipman.github.io/assests/images/twitter-like.png" /> 999</td></tr>';
               row_content += '</table>';
 
               row_content += '</td></tr>';
