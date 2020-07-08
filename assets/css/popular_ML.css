@@ -21,12 +21,17 @@
 }
 .row-title {
     color: #bf3138;
+    font-size:17px;
 }
 .row-author:hover {
     color: #6289e5;
 }
 .row-author {
     color: #6289e5;
+    font-size:13px;
+}
+.row-numrtwslikes {
+    font-size:13px;
 }
 .row {
     margin:0;
