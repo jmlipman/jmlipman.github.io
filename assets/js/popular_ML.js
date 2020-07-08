@@ -31,12 +31,12 @@ function loadRows(source, latest) {
               row_content += '</td></tr>';
               row_content += '<tr><td>';
               row_content += '<table class="popularml" width="100%" height="100%" cellspacing="0" cellpadding="0">';
-              row_content += '<tr><td width="50%" align="center">';
-              row_content += '<img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-retweet.png" /> 999';
+              row_content += '<tr><td width="25%" align="center">';
+              row_content += '<img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-retweet.png" width="20" /> 999';
               row_content += '</td>';
 
-              row_content += '<td width="50%" align="center"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-like.png" /> 999</td></tr>';
-              row_content += '</table>';
+              row_content += '<td width="25%" align="center"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-like.png" width="20"/> 999</td>';
+              row_content += '<td width="50%"></td></tr></table>';
 
               row_content += '</td></tr>';
               row_content += '</table>';
