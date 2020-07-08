@@ -34,13 +34,14 @@
 .data-author {
     overflow: auto;
 }
-table {
+table.popularml {
     border: 0;
     margin-bottom: 0;
 }
-td {
+table.popularml > td {
     border-bottom: 0;
     border-right: 0;
+    padding: 0.2em;
 }
 .btn-light {
     background-color: #E2E6EA;
