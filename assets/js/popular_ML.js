@@ -50,7 +50,7 @@ function loadRows(source, latest) {
               row_content += '</td>';
 
               row_content += '<td width="25%" align="center"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-like.png" width="15"/> <span class="row-numrtwslikes">999</a></td>';
-              row_content += '<td width="50%"><span class="row-date">Date</span></td></tr></table>';
+              row_content += '<td width="50%" align="right"><span class="row-date">Date</span></td></tr></table>';
 
               row_content += '</td></tr>';
               row_content += '</table>';
