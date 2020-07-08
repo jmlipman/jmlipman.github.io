@@ -32,7 +32,7 @@ function loadRows(source, latest) {
               row_content += '<tr><td>';
               row_content += '<table class="popularml" width="100%" height="100%" cellspacing="0" cellpadding="0">';
               row_content += '<tr><td width="50%" align="center">';
-              row_content += '<img src="https://jmlipman.github.io/assests/images/twitter-retweet.png" /> 999';
+              row_content += '<img src="{{ base_path }}/assets/images/twitter-retweet.png" /> 999';
               row_content += '</td>';
 
               row_content += '<td width="50%" align="center"><img src="https://jmlipman.github.io/assests/images/twitter-like.png" /> 999</td></tr>';
