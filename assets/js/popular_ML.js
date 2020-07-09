@@ -3,7 +3,7 @@ var current_source = "arxiv";
 var map_icons = {
     "Arxiv": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/arxiv.png",
     "Twitter": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter.png",
-    "GitHub": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/github.png"
+    "Github": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/github.png"
 }
 
 function getCategoryIcon(name) {
@@ -63,7 +63,8 @@ $(this).ready(function() {
     loadRows(current_source);
     
     // Clicking buttons
-    $("span.popularML-source").click(function() {
+    $(document).on("click", "span.popularML-source", function() {
+    //$("span.popularML-source").click(function() {
         
         $("span.popularML-source").css("background-color","");
         $(this).css("background-color", "#E6E2EB");
