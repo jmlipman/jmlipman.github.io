@@ -32,7 +32,7 @@ permalink: /misc/popularML
     <h4>Top 50 entries</h4>
 </div>
 <div class="row top-row">
-    <div class="col-12 themed-grid-col-top-row my-auto">
+    <div class="col-12 themed-grid-col-top-row my-auto" style="word-wrap: break-word">
         <!--<select class="custom-select" id="select-source">
             <option value="arxiv" selected>ArXiv</option>
             <option value="twitter">Twitter</option>
