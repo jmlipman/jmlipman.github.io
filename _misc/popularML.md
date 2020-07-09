@@ -43,15 +43,14 @@ permalink: /misc/popularML
             <option value="other">Other</option>
             <option value="all">All</option>
           </select>-->
-        <span class="popularML-source">Category 1</span>
-        <span class="popularML-source">Category 2</span>
-        <span class="popularML-source">Category 3</span>
-        <span class="popularML-source">Category 4</span>
-        <span class="popularML-source">Category 5</span>
-        <span class="popularML-source">Category 6</span>
-        <span class="popularML-source">Category 7</span>
-        <span class="popularML-source">Category 8</span>
-        <span class="popularML-source">Category 9</span>
+        <span class="popularML-source" id="arxiv">arXiv</span>
+        <span class="popularML-source" id="twitter">Twitter</span>
+        <span class="popularML-source" id="blog">Blog</span>
+        <span class="popularML-source" id="github">GitHub</span>
+        <span class="popularML-source" id="paper">Paper</span>
+        <span class="popularML-source" id="news">News</span>
+        <span class="popularML-source" id="other">Other</span>
+        <span class="popularML-source" id="all">All</span>
         
       </div>
 </div>
