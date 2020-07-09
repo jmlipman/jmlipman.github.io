@@ -33,7 +33,7 @@ permalink: /misc/popularML
 </div>
 <div class="row top-row">
     <div class="col-6 themed-grid-col-top-row my-auto">
-        <select class="custom-select" id="select-source">
+        <!--<select class="custom-select" id="select-source">
             <option value="arxiv" selected>ArXiv</option>
             <option value="twitter">Twitter</option>
             <option value="blog">Blog</option>
@@ -42,13 +42,17 @@ permalink: /misc/popularML
             <option value="news">News</option>
             <option value="other">Other</option>
             <option value="all">All</option>
-          </select>
-      </div>
-      <div class="col-6 themed-grid-col-top-row text-center">
-          <button type="button" class="btn btn-primary" id="week">Last week</button>
-          <button type="button" class="btn btn-light" id="2weeks">Last 2 weeks</button>
-          <button type="button" class="btn btn-light" id="month">Last month</button>
-          <button type="button" class="btn btn-light" id="3months">Last 3 months</button>
+          </select>-->
+        <span class="popularML-source">Category 1</span>
+        <span class="popularML-source">Category 2</span>
+        <span class="popularML-source">Category 3</span>
+        <span class="popularML-source">Category 4</span>
+        <span class="popularML-source">Category 5</span>
+        <span class="popularML-source">Category 6</span>
+        <span class="popularML-source">Category 7</span>
+        <span class="popularML-source">Category 8</span>
+        <span class="popularML-source">Category 9</span>
+        
       </div>
 </div>
 <div class="rows-here">
