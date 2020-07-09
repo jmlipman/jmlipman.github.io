@@ -33,20 +33,10 @@ permalink: /misc/popularML
 </div>
 <div class="row top-row">
     <div class="col-12 themed-grid-col-top-row my-auto" style="word-wrap: break-word">
-        <!--<select class="custom-select" id="select-source">
-            <option value="arxiv" selected>ArXiv</option>
-            <option value="twitter">Twitter</option>
-            <option value="blog">Blog</option>
-            <option value="github">GitHub</option>
-            <option value="paper">Paper</option>
-            <option value="news">News</option>
-            <option value="other">Other</option>
-            <option value="all">All</option>
-          </select>-->
-        <span class="popularML-source" id="arxiv">arXiv</span>
-        <span class="popularML-source" id="twitter">Twitter</span>
+        <span class="popularML-source" id="arxiv"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/arxiv.png" width="15" /> arXiv</span>
+        <span class="popularML-source" id="twitter"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter.png" width="15" /> Twitter</span>
         <span class="popularML-source" id="blog">Blog</span>
-        <span class="popularML-source" id="github">GitHub</span>
+        <span class="popularML-source" id="github"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/github.png" width="15" /> GitHub</span>
         <span class="popularML-source" id="paper">Paper</span>
         <span class="popularML-source" id="news">News</span>
         <span class="popularML-source" id="other">Other</span>
