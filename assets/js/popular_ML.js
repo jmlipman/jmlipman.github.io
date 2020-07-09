@@ -64,7 +64,11 @@ $(this).ready(function() {
     
     // Clicking buttons
     $("span.popularML-source").click(function() {
+        
+        $("span.popularML-source").css("background-color","");
+        $(this).css("background-color", "#E6E2EB");
         current_source = $(this).attr("id");
+        
         loadRows(current_source);
         
          /*$("button[type=button]").each(function() {
