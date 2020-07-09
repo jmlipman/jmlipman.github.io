@@ -1,5 +1,5 @@
 var current_source = "arxiv";
-var current_latest = "week";
+
 var map_icons = {
     "Arxiv": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/arxiv.png",
     "Twitter": "https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter.png",
@@ -14,10 +14,10 @@ function getCategoryIcon(name) {
     return res;
 }
 
-function loadRows(source, latest) {
+function loadRows(source) {
     var row_content;
     $("div.rows-here").html("");
-    $.post( "https://delanover.com/projects/popular_ML/json_calls/retrieve.php", { source: source, latest: latest }, function( data ) {
+    $.post( "https://delanover.com/projects/popular_ML/json_calls/retrieve.php", { source: source}, function( data ) {
       if ((data != null) && (data.length > 0)) {
           for (var i=0; i<data.length; i++) {
               /*row_content = '<div class="row">';
@@ -46,11 +46,11 @@ function loadRows(source, latest) {
               row_content += '<tr><td>';
               row_content += '<table class="popularml" width="100%" height="100%" cellspacing="0" cellpadding="0">';
               row_content += '<tr><td width="25%" align="center">';
-              row_content += '<img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-retweet.png" width="15" /> <span class="row-numrtwslikes">999</a>';
+              row_content += '<img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-retweet.png" width="15" /> <span class="row-numrtwslikes">'+data[i].tweet_rtws+'</a>';
               row_content += '</td>';
 
-              row_content += '<td width="25%" align="center"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-like.png" width="15"/> <span class="row-numrtwslikes">999</a></td>';
-              row_content += '<td width="50%" align="right"><span class="row-date">Date</span></td></tr></table>';
+              row_content += '<td width="25%" align="center"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter-like.png" width="15"/> <span class="row-numrtwslikes">'+data[i].tweet_favs+'</a></td>';
+              row_content += '<td width="50%" align="right"><span class="row-date">'+data[i].tweet_created_at+'</span></td></tr></table>';
 
               row_content += '</td></tr>';
               row_content += '</table>';
@@ -66,12 +66,11 @@ function loadRows(source, latest) {
 
 $(this).ready(function() {
     
-    loadRows(current_source, current_latest);
+    loadRows(current_source);
     
     // Clicking buttons
     $("button[type=button]").click(function() {
-        current_latest = $(this).attr("id");
-        loadRows(current_source, current_latest);
+        loadRows(current_source);
         
          $("button[type=button]").each(function() {
              $(this).attr("class", "btn btn-light");
@@ -82,6 +81,6 @@ $(this).ready(function() {
     // Changing "select"
     $("select#select-source").change(function() {
         current_source = $("select#select-source :selected").val();
-        loadRows(current_source, current_latest);
+        loadRows(current_source);
     });
 })
