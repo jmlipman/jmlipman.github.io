@@ -14,10 +14,11 @@
     margin-bottom:15px;
 }
 span.popularML-source {
-  color:blue;
-  border: 2px solid red;
+  color:black;
+  border: 2px solid #E6E2EB;
   padding: 4px;
   border-radius: 25px;
+  margin-bottom:10px;
 }
 .top-row {
     margin-bottom:10px;
