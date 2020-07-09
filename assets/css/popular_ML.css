@@ -18,7 +18,8 @@ span.popularML-source {
   border: 2px solid #E6E2EB;
   padding: 4px;
   border-radius: 25px;
-  margin-bottom:20px;
+  margin-bottom:10px;
+  line-height: 0.5em;
 }
 .top-row {
     margin-bottom:10px;
