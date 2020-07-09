@@ -55,7 +55,6 @@ permalink: /misc/popularML
         
       </div>
 </div>
-<br>
 <div class="rows-here">
     LOADING...
 </div>
