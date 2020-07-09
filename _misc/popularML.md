@@ -33,7 +33,7 @@ permalink: /misc/popularML
 </div>
 <div class="row top-row">
     <div class="col-12 themed-grid-col-top-row my-auto" style="word-wrap: break-word">
-        <span class="popularML-source" id="arxiv"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/arxiv.png" width="15" /> arXiv</span>
+        <span class="popularML-source" id="arxiv" style="background-color: #E6E2EB"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/arxiv.png" width="15" /> arXiv</span>
         <span class="popularML-source" id="twitter"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter.png" width="15" /> Twitter</span>
         <span class="popularML-source" id="blog">Blog</span>
         <span class="popularML-source" id="github"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/github.png" width="15" /> GitHub</span>
