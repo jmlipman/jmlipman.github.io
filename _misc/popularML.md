@@ -33,17 +33,17 @@ permalink: /misc/popularML
 </div>
 <div class="row top-row">
     <div class="col-12 themed-grid-col-top-row my-auto" style="word-wrap: break-word">
-        <span class="popularML-source" id="arxiv" style="background-color: #E6E2EB"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/arxiv.png" width="15" /> arXiv</span>
+        <span class="popularML-source" id="arxiv" style="background-color: #E6E2EB"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/arxiv.png" width="15" />arXiv</span>
         <span class="popularML-source" id="blog">Blog</span>
-        <span class="popularML-source" id="colab"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/colab.png" width="15" /> Colab</span>
-        <span class="popularML-source" id="github"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/github.png" width="15" /> GitHub</span>
+        <span class="popularML-source" id="colab"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/colab.png" width="15" />Colab</span>
+        <span class="popularML-source" id="github"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/github.png" width="15" />GitHub</span>
         <span class="popularML-source" id="news">News</span>
-        <span class="popularML-source" id="twitter"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter.png" width="15" /> Twitter</span>
+        <span class="popularML-source" id="twitter"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/twitter.png" width="15" />Twitter</span>
         <span class="popularML-source" id="other">Other</span>
         <span class="popularML-source" id="paper">Paper</span>
         <span class="popularML-source" id="university">University</span>
-        <span class="popularML-source" id="youtube"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/youtube.png" width="15" /> Youtube</span>
-        <span class="popularML-source" id="wikipedia"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/wikipedia.png" width="15" /> Wikipedia</span>
+        <span class="popularML-source" id="youtube"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/youtube.png" width="15" />Youtube</span>
+        <span class="popularML-source" id="wikipedia"><img src="https://raw.githubusercontent.com/jmlipman/jmlipman.github.io/master/assets/images/wikipedia.png" width="15" />Wikipedia</span>
         <span class="popularML-source" id="all">All</span>
       </div>
 </div>
