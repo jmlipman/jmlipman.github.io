@@ -10,6 +10,21 @@ author_profile: true
 
 <div class="row">
     <div class="col-md-12" style="margin-bottom:10px;">
+        <p class="p_p publication_title">RatLesNetv2: A Fully ConvNet for Rodent Brain Lesion Segmentation</p>
+        <p class="p_p publication_authors"><span class="author"><b>J.M. Valverde</b></span>, <span class="author">A. Shatillo</span>, <span class="author">R. de Feo</span>, <span class="author">A. Sierra</span>, <span class="author">O. Gröhn</span>, <span class="author">J. Tohka</span></p>
+        <p class="p_p publication_journal">to appear in Frontiers in Neuroscience.</p>
+    </div>
+    <div class="col-md-4 vcenter"><img src="img_ratlesnetv2_20.png" class="img-paper"></div>
+    <div class="col-md-8">
+            <p class="p_p publication_abstract">We present a fully convolutional neural network (ConvNet), named RatLesNetv2, for segmenting lesions in rodent magnetic resonance (MR) brain images. RatLesNetv2 architecture resembles an autoencoder and it incorporates residual blocks that facilitate its optimization. RatLesNetv2 is trained end to end on three-dimensional images and it requires no preprocessing. We evaluated RatLesNetv2 on an exceptionally large dataset composed of 916 T2-weighted rat brain MRI scans of 671 rats at nine different lesion stages  that were used to study focal cerebral ischemia for drug development. In addition, we compared its performance with three other ConvNets specifically designed for medical image segmentation. RatLesNetv2 obtained similar to higher Dice coefficient values than the other ConvNets and it produced much more realistic and compact segmentations with notably fewer holes and lower Hausdorff distance. The Dice scores of RatLesNetv2 segmentations also exceeded inter-rater agreement of manual segmentations. In conclusion, RatLesNetv2 could be used for automated lesion segmentation, reducing human workload and improving reproducibility. RatLesNetv2 is publicly available at <a href="https://github.com/jmlipman/RatLesNetv2">https://github.com/jmlipman/RatLesNetv2</a>.</p>
+            <p class="p_p publication_extra">[<a class="extra" href="https://arxiv.org/abs/2001.09138">ArXiv</a>], [<a class="extra" href="https://github.com/jmlipman/RatLesNetv2">Code</a>]</p>
+        </div>
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-md-12" style="margin-bottom:10px;">
         <p class="p_p publication_title">Rodent Brain MRI Lesion Segmentation with Fully Convolutional Networks</p>
         <p class="p_p publication_authors"><span class="author"><b>J.M. Valverde</b></span>, <span class="author">A. Shatillo</span>, <span class="author">R. de Feo</span>, <span class="author">A. Sierra</span>, <span class="author">O. Gröhn</span>, <span class="author">J. Tohka</span></p>
         <p class="p_p publication_journal">in Machine Learning in Medical Imaging, MICCAI 2019.</p>
