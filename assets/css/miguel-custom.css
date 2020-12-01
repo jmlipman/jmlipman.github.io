@@ -5,6 +5,10 @@ font-size:20px;
 p.publication_title {
 font-weight:bold;
 }
+p.hashtags {
+  font-size:18px;
+  font-color: green;
+}
 span.author {
 font-size:18px;
 color:#6289e5;
