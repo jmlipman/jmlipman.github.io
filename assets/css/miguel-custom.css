@@ -1,35 +1,35 @@
 p.p_p {
-padding: 0px; margin: 0px;
-font-size:20px;
+  padding: 0px; margin: 0px;
+  font-size:20px;
 }
 p.publication_title {
-font-weight:bold;
+  font-weight:bold;
 }
 p.hashtags {
   font-size:18px;
-  font-color: green;
+  color: green;
 }
 span.author {
-font-size:18px;
-color:#6289e5;
+  font-size:18px;
+  color:#6289e5;
 }
 p.publication_abstract {
-font-size:16px;
-font-family:Helvetica;
-text-align: justify;
+  font-size:16px;
+  font-family:Helvetica;
+  text-align: justify;
 }
 p.publication_journal {
-font-size:18px;
+  font-size:18px;
 }
 a.extra {
-font-size:18px;
-color:#bf3138;
+  font-size:18px;
+  color:#bf3138;
 }
 table.publication_table tr td {
-border:0px;
+  border:0px;
 }
 table.publication_table {
-border:0px;
+  border:0px;
 }
 
 .img-paper {
