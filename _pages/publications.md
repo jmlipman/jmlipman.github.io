@@ -13,7 +13,7 @@ author_profile: true
         <p class="p_p publication_title">RatLesNetv2: A Fully ConvNet for Rodent Brain Lesion Segmentation</p>
         <p class="p_p publication_authors"><span class="author"><b>J.M. Valverde</b></span>, <span class="author">A. Shatillo</span>, <span class="author">R. de Feo</span>, <span class="author">A. Sierra</span>, <span class="author">O. Gröhn</span>, <span class="author">J. Tohka</span></p>
         <p class="p_p publication_journal">to appear in Frontiers in Neuroscience.</p>
-        <p class="p_p hashtags"><span class="segmentation">#Segmentation</span> <span class="medicalimaging">#MedicalImaging</span>.</p>
+        <p class="p_p hashtags"><span class="segmentation">#Segmentation</span> <span class="medicalimaging">#MedicalImaging</span></p>
     </div>
     <div class="col-md-4 vcenter">
         <table class="img-paper-table"><tr><td align="center" valign="center" width="100%"><img src="img_ratlesnetv2_20.png" class="img-paper"></td></tr></table>
@@ -31,7 +31,7 @@ author_profile: true
         <p class="p_p publication_title">Rodent Brain MRI Lesion Segmentation with Fully Convolutional Networks</p>
         <p class="p_p publication_authors"><span class="author"><b>J.M. Valverde</b></span>, <span class="author">A. Shatillo</span>, <span class="author">R. de Feo</span>, <span class="author">A. Sierra</span>, <span class="author">O. Gröhn</span>, <span class="author">J. Tohka</span></p>
         <p class="p_p publication_journal">in Machine Learning in Medical Imaging, MICCAI 2019.</p>
-        <p class="p_p hashtags"><span class="segmentation">#Segmentation</span> <span class="medicalimaging">#MedicalImaging</span>.</p>
+        <p class="p_p hashtags"><span class="segmentation">#Segmentation</span> <span class="medicalimaging">#MedicalImaging</span></p>
     </div>
     <div class="col-md-4 vcenter">
         <table class="img-paper-table"><tr><td align="center" valign="center" width="100%"><img src="img_ratlesnet_19.png" class="img-paper"></td></tr></table>
@@ -53,7 +53,7 @@ author_profile: true
     <p class="p_p publication_title">Predicting intelligence based on cortical WM/GM contrast, cortical thickness and volumetry</p>
         <p class="p_p publication_authors"><span class="author"><b>J.M. Valverde</b></span>*, <span class="author">V. Imani</span>*, <span class="author">J.D. Lewis</span>, <span class="author">J. Tohka</span></p>
         <p class="p_p publication_journal">in Adolescent Brain Cognitive Development Neurocognitive Prediction, MICCAI 2019.</p>
-    <p class="p_p hashtags"><span class="segmentation">#Regression</span> <span class="medicalimaging">#MedicalImaging</span>.</p>
+    <p class="p_p hashtags"><span class="segmentation">#Regression</span> <span class="medicalimaging">#MedicalImaging</span></p>
 </div>
 <div class="col-md-4 vcenter">
     <table class="img-paper-table"><tr><td align="center" valign="center" width="100%"><img src="img_abcd_19.png" class="img-paper"></td></tr></table>
