@@ -66,6 +66,7 @@ author_profile: true
         <p class="p_p publication_extra">[<a class="extra" href="https://arxiv.org/abs/1909.05660">ArXiv</a>], [<a class="extra" href="{{ base_path }}/publications/poster_abcd_19.pdf">Poster</a>]</p>
     </div>
 </div>
+<br>
 
 # Publications (list)
 ## Journal papers
@@ -76,5 +77,6 @@ author_profile: true
  1. **J.M. Valverde**, V. Imani, J.D. Lewis, J. Tohka. Predicting intelligence based on cortical WM/GM contrast, cortical thickness and volumetry. Adolescent Brain Cognitive Development Neurocognitive Prediction, 2019. [(publication)](https://link.springer.com/chapter/10.1007%2F978-3-030-31901-4_7) [(ArXiv)](https://arxiv.org/abs/1909.05660)
 
 
-
-
+## Journal papers
+ 1. V. Imani, **J.M. Valverde**, M. Prakash J.D. Lewis, O. Gröhn, J. Tohka. Fluid Intelligence Classification Based On Cortical WM/GM Contrast, Cortical Thickness and Volumetry. Organization for Human Brain Mapping, 2020. [(abstract)]
+(https://cdn-akamai.6connex.com/645/1827//Fluid_Intelligence_Classification_Based_On_Cortical_WMGM_Contrast_Cortical_Thickness_and_Volumetry_15919792108968037.pdf)
