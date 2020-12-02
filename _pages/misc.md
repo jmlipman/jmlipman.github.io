@@ -5,5 +5,6 @@ permalink: /misc/
 author_profile: false
 ---
 
-[Popular ML resources on Twitter (bot)]({{ base_path }}/misc/popularML)
+## Projects
+[Popular ML Arxiv links]({{ base_path }}/misc/popularML)
 
