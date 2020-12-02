@@ -13,6 +13,7 @@ Hi, my name is Miguel and I'm a PhD student at UEF (<a href="https://www.jussito
 <img src="{{ base_path }}/images/lesions.png" with="400px">
 
 ## News
+* December 2020 - RatLesNetv2 paper accepted in Frontiers in Neuroscience.
 * July 2020 - I received a grant from <a href="http://en.ottomalm.fi.kotisivukone.com/stipends-granted-2020" target="_blank">Otto Malm foundation</a> to support my secondment at the University of Oxford.
 * May 2020 - I will give an online presentation "Image segmentation using convolutional neural networks" at <a href="https://blogs.uef.fi/kubiac/2020/04/21/deep-learning-for-medical-and-industrial-imaging-an-online-networking-event/" target="_blank">Deep Learning  for Medical and Industrial Imaging</a> the 14th of May (2020).
 * February 2020 - I will give a pitch presentation and present a poster about our <a href="https://arxiv.org/abs/2001.09138" target="_blank">last work</a> at UEF Winter School next month.
