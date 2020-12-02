@@ -6,5 +6,5 @@ author_profile: false
 ---
 
 ## Projects
-[Popular ML Arxiv links]({{ base_path }}/misc/popularML)
+[Popular ML Arxiv tweets]({{ base_path }}/misc/popularML)
 
