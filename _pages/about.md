@@ -12,6 +12,10 @@ Hi, my name is Miguel and I'm a PhD student at UEF (<a href="https://www.jussito
 
 <img src="{{ base_path }}/images/lesions.png" with="400px">
 
+<script>
+window.location.href = "https://delanover.com";
+</script>
+
 ## News
 * December 2020 - RatLesNetv2 paper accepted in Frontiers in Neuroscience.
 * July 2020 - I received a grant from <a href="http://en.ottomalm.fi.kotisivukone.com/stipends-granted-2020" target="_blank">Otto Malm foundation</a> to support my secondment at the University of Oxford.
