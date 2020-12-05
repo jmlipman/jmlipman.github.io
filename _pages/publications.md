@@ -70,7 +70,7 @@ author_profile: true
 
 # Full publications list
 ## Journal papers
- 1. **J.M. Valverde**, A. Shatillo, R. de Feo, O. Gröhn, A. Sierra, J. Tohka. RatLesNetv2: A Fully ConvNet for Rodent Brain Lesion Segmentation. To appear in Frontiers in Neuroscience. [(ArXiv)](https://arxiv.org/abs/1908.08746)
+ 1. **J.M. Valverde**, A. Shatillo, R. de Feo, O. Gröhn, A. Sierra, J. Tohka. RatLesNetv2: A Fully ConvNet for Rodent Brain Lesion Segmentation. To appear in Frontiers in Neuroscience. [(ArXiv)](https://arxiv.org/abs/2001.09138)
 
 ## Refereed conference papers
  1. **J.M. Valverde**, A. Shatillo, R. de Feo, O. Gröhn, A. Sierra, J. Tohka. Automatic Rodent Brain MRI Lesion Segmentation with Fully Convolutional Networks. Machine Learning in Medical Imaging, 2019. [(publication)](https://link.springer.com/chapter/10.1007%2F978-3-030-32692-0_23) [(ArXiv)](https://arxiv.org/abs/1908.08746)
