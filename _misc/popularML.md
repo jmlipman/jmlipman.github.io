@@ -9,7 +9,9 @@ permalink: /misc/popularML
 <script language="javascript" src="{{ base_path }}/assets/js/jquery.js"></script>
 <script language="javascript" src="{{ base_path }}/assets/js/popular_ML.js"></script>
 
-
+<script>
+     window.location.href = "https://delanover.com/about/misc/popular-ML/";
+</script>
 
 <div class="cover-container d-flex mx-auto flex-column">
     <main role="main" class="inner cover text-center">
