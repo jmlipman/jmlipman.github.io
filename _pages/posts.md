@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Blog posts"
+title: "Blog"
 permalink: /posts/
 author_profile: false
 ---
 
-No post yet.
+No posts yet.

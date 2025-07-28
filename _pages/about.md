@@ -3,24 +3,20 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi, my name is Miguel and I'm a PhD student at UEF (<a href="https://www.jussitohka.net/" target="_blank">Jussi Tohka's group</a>) working on rodent lesion segmentation with deep learning (see Figure below) 🧠🐭💻
+Hi! I'm Miguel. I'm a postdoc researcher at the section for Visual Computing at DTU Compute (Denmark) with [Anders Bjorholm Dahl](https://orbit.dtu.dk/en/persons/anders-bjorholm-dahl) as my supervisor. My research focuses on deep learning, image segmentation and topology.
 
-<img src="{{ base_path }}/images/lesions.png" with="400px">
+Topology-focused image segmentation methods are important for tasks where topology accuracy (i.e., the number of independent components, holes, cavities) is crucial. Recently, I developed the first data augmentation transformation ([CoLeTra](https://arxiv.org/abs/2503.05541)) focused on improving topology accuracy, and I created the first dataset ([TopoMortar](https://arxiv.org/abs/2503.03365)) specifically designed to assess whether topology-enhancing methods for image segmentation do actually incorporate prior topological knowledge (preprint).
 
-<script>
-window.location.href = "https://delanover.com";
-</script>
+During my Ph.D., I focused on deep learning and biomedical image segmentation. In addition to application-specific methods (segmentation of brain lesions and hemispheres in preclinical MRI), I developed a loss function and a filter pruning method for biomedical image segmentation, wrote a review on transfer learning for brain MRI, and participated in a challenge to predict fluid intelligence score from MR images.
 
-## News
-* December 2020 - RatLesNetv2 paper accepted in Frontiers in Neuroscience.
-* July 2020 - I received a grant from <a href="http://en.ottomalm.fi.kotisivukone.com/stipends-granted-2020" target="_blank">Otto Malm foundation</a> to support my secondment at the University of Oxford.
-* May 2020 - I will give an online presentation "Image segmentation using convolutional neural networks" at <a href="https://blogs.uef.fi/kubiac/2020/04/21/deep-learning-for-medical-and-industrial-imaging-an-online-networking-event/" target="_blank">Deep Learning  for Medical and Industrial Imaging</a> the 14th of May (2020).
-* February 2020 - I will give a pitch presentation and present a poster about our <a href="https://arxiv.org/abs/2001.09138" target="_blank">last work</a> at UEF Winter School next month.
-* February 2020 - I've developed a bot to classify and display <a href="https://jmlipman.github.io/misc/popularML" target="_blank">Machine Learning related tweets</a>
-* August 2019 - Attending MICCAI 2019 to present 2 papers (MLMI workshop and ABCD challenge)
+In addition to research experience in deep learning and image segmentation, I have vast experience with Python, Pytorch, Julia, and Linux. I have worked extensively with many type of images, including MRI, CT/X-ray (clinical, and synchrotron), and electron-microscopy.
 
+## Research vision
+I envision a world where anyone who needs to segment and analyze images, regardless of the field, can perform segmentation easily, accurately, and fast. We are definitely not there yet, especially when working with very large images, and when topology and shape accuracy is crucial.
+
+I'm open for collaborations and organizing academic activities, including workshops, challenges, and conferences. Feel free to contact me: jmvma (at) dtu.dk.

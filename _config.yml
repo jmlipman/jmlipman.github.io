@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "J.M. Valverde"
+  name             : "J. Miguel Valverde"
   avatar           : "profile.jpg"
-  bio              : "MRI. Segmentation. Deep Learning."
-  location         : "University of Eastern Finland"
-  employer         : 
-  pubmed           : 
+  bio              : "Deep Learning researcher."
+  location         : "Technical University of Denmark"
+  employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=OPH9yeIAAAAJ&hl=en"
-  email            : "jvmlipman@hotmail.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jmlipman"
+  twitter          :
   vine             :
   weibo            :
   xing             :
