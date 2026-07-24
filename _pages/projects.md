@@ -14,8 +14,8 @@ redirect_from:
 
 <h3>Research and Publications</h3>
 
-<a href="https://jmlipman.github.io/TopoMortar/">🧱 TopoMortar (BMVC Oral)</a>
 
-<a href="https://jmlipman.github.io/SCNP-SameClassNeighborPenalization/">🧩 SCNP (CVPR)</a>
+<a href="https://jmlipman.github.io/SCNP-SameClassNeighborPenalization/">🧩 SCNP (CVPR)</a>. 3-lines logits-penalization method to improve topology accuracy.
+<a href="https://jmlipman.github.io/TopoMortar/">🧱 TopoMortar (BMVC Oral)</a>. Dataset to systematically evaluate topology-focused image segmentation methods.
 
 
