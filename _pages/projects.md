@@ -9,4 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/jmlipman/TopoMortar">🧱 TopoMortar</a>
+<h3>Funded Grants</h3>
+<a href="">HAV-INNO (details coming soon)</a>
+
+<h3>Research and Publications</h3>
+
+<a href="https://jmlipman.github.io/TopoMortar/">🧱 TopoMortar (BMVC Oral)</a>
+
+<a href="https://jmlipman.github.io/SCNP-SameClassNeighborPenalization/">🧩 SCNP (CVPR)</a>
+
+
