@@ -14,7 +14,6 @@ redirect_from:
 
 <h3>Research and Publications</h3>
 
-<!--
 <table style="font-size:1em">
 <tr>
     <td><a href="https://jmlipman.github.io/SCNP-SameClassNeighborPenalization/">🧩 SCNP</a></td>
@@ -31,6 +30,7 @@ redirect_from:
     <td>Arxiv 2025</td>
     <td>Data augmentation method to improve topology accuracy</td>
 </tr>
+<!--
 <tr>
     <td><a href="https://github.com/jmlipman/SauronUNet">Sauron</a></td>
     <td>Neurocomputing 2024</td>
@@ -51,5 +51,5 @@ redirect_from:
     <td>Frontiers in neuroscience 2020</td>
     <td>DL method to segment rat brain lesions in MR images</td>
 </tr>
-</table>
 -->
+</table>
