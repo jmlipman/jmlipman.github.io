@@ -22,7 +22,7 @@ redirect_from:
 </tr>
 <tr>
     <td><a href="https://jmlipman.github.io/TopoMortar/">🧱 TopoMortar</a></td>
-    <td>BMVC 2025 (Oral)</td>>
+    <td>BMVC 2025 (Oral)</td>
     <td>Dataset to systematically evaluate topology-focused image segmentation methods</td>
 </tr>
 <tr>
@@ -30,7 +30,6 @@ redirect_from:
     <td>Arxiv 2025</td>
     <td>Data augmentation method to improve topology accuracy</td>
 </tr>
-<!--
 <tr>
     <td><a href="https://github.com/jmlipman/SauronUNet">Sauron</a></td>
     <td>Neurocomputing 2024</td>
@@ -51,5 +50,4 @@ redirect_from:
     <td>Frontiers in neuroscience 2020</td>
     <td>DL method to segment rat brain lesions in MR images</td>
 </tr>
--->
 </table>
