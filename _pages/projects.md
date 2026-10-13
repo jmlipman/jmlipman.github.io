@@ -16,7 +16,7 @@ redirect_from:
 
 <table style="font-size:1em">
 <tr>
-    <td colspan=3><b>Topology-focused Image Segmentation</b></td>
+    <td colspan="3"><b>Topology-focused Image Segmentation</b></td>
 </tr>
 <tr>
     <td><a href="https://jmlipman.github.io/SCNP-SameClassNeighborPenalization/">🧩 SCNP</a></td>
@@ -29,12 +29,12 @@ redirect_from:
     <td>Dataset to systematically evaluate topology-focused image segmentation methods</td>
 </tr>
 <tr>
-    <td><a href="https://jmlipman.github.io/CoLeTra/">🦴 CoLeTra</a></td>
+    <td><a href="https://jmlipman.github.io/CoLeTra/">🦴 CoLeTra</b></td>
     <td>NLDL 2027</td>
     <td>Data augmentation method to improve topology accuracy</td>
 </tr>
 <tr>
-    <td colspan=3><b>Medical Image Segmentation</a></td>
+    <td colspan="3"><b>Medical Image Segmentation</a></td>
 </tr>
 <tr>
     <td><a href="https://github.com/jmlipman/SauronUNet">Sauron</a></td>
