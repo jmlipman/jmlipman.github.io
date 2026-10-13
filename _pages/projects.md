@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h3>Funded Grants</h3>
-<a href="">🐟 HAV-INNO (details coming soon)</a>
+<a href="https://havinno.compute.dtu.dk/">🐟 HAV-INNO (details coming soon)</a>
 
 <h3>Research and Publications</h3>
 
@@ -29,12 +29,12 @@ redirect_from:
     <td>Dataset to systematically evaluate topology-focused image segmentation methods</td>
 </tr>
 <tr>
-    <td><a href="https://jmlipman.github.io/CoLeTra/">🦴 CoLeTra</b></td>
+    <td><a href="https://jmlipman.github.io/CoLeTra/">🦴 CoLeTra</a></td>
     <td>NLDL 2027</td>
     <td>Data augmentation method to improve topology accuracy</td>
 </tr>
 <tr>
-    <td colspan="3"><b>Medical Image Segmentation</a></td>
+    <td colspan="3"><b>Medical Image Segmentation</b></td>
 </tr>
 <tr>
     <td><a href="https://github.com/jmlipman/SauronUNet">Sauron</a></td>
